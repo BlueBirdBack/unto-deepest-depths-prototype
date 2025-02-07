@@ -1,8 +1,8 @@
 [gd_resource type="Resource" script_class="UnitDefinition" load_steps=16 format=3 uid="uid://dnye6eu2q8q5o"]
 
 [ext_resource type="SpriteFrames" uid="uid://brmtcyhxw7rr8" path="res://src/unit/art/archer/archer_spriteframes.tres" id="1_6hsp3"]
-[ext_resource type="Script" path="res://src/unit/definitions/unit_definition.gd" id="1_bpnlc"]
-[ext_resource type="Script" path="res://src/unit/action_definition.gd" id="2_vhtr3"]
+[ext_resource type="Script" uid="uid://oxsybnill4xi" path="res://src/unit/definitions/unit_definition.gd" id="1_bpnlc"]
+[ext_resource type="Script" uid="uid://dxtp2m4m70sdm" path="res://src/unit/action_definition.gd" id="2_vhtr3"]
 
 [sub_resource type="Resource" id="Resource_g4b0h"]
 script = ExtResource("2_vhtr3")
