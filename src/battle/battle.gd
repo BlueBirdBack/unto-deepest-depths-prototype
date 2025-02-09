@@ -1,6 +1,6 @@
 extends Node2D
 
-@onready var tiles: TileMap = %tiles
+@onready var tiles: TileMapLayer = %tiles
 @onready var units: UnitsContainer = %units
 
 func _ready() -> void:
